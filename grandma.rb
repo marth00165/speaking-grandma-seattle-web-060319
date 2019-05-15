@@ -2,9 +2,11 @@
 
 def speak_to_grandma(chicken)
   if (chicken == chicken.upcase) {
-    puts ""
+    puts "I LOVE YOU TOO PUMPKIN"
     
   }
+  
+else if ()
 end
 
 # Whatever you say to grandma, she should respond with

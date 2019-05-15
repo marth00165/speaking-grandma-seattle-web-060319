@@ -1,6 +1,11 @@
 # Write a speak_to_grandma method.
 
-speak_to_grandma()
+def speak_to_grandma(chicken)
+  if (chicken == chicken.upcase) {
+    puts ""
+    
+  }
+end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!

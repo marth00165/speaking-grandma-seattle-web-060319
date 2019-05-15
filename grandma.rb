@@ -11,7 +11,7 @@ else if (chicken == chicken.upcase){
   
 }
 
-else if (chicken. "I LOVE YOU GRANDMA"){
+else if (chicken == "I LOVE YOU GRANDMA"){
   puts "HUH?! SPEAK UP, SONNY!"
   
 }
